@@ -1,0 +1,11 @@
+{
+  "name": "k6_perftest",
+  "version": "1.0.0",
+  "description": "Learning k6",
+  "main": "specs/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krishanu",
+  "license": "ISC"
+}
